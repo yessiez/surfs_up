@@ -11,14 +11,16 @@ The purpose of this analysis is to apply Python, Pandas functions and methods, a
 
 
 ## Results
+![June temps](https://github.com/yessiez/surfs_up/blob/master/data-Module-9-Challenge-Image-1.png?raw=true)
 
 - In June, the average temperature is 79.94 degrees Farenheight, the minumum temperature is 64.00 degrees Farenheight, and the maximum temperature is 85.00 degrees Farenheight.
 
-![June](https://courses.bootcampspot.com/courses/691/files/572441/preview)
+![December temps](https://github.com/yessiez/surfs_up/blob/master/data-Module-9-Challenge-Image-2.png?raw=true)
+
 
 - In December, the average temperature is 71.04 degrees Farenheight, the minumum temperature is 56.00 degrees Farenheight, and the maximum temperature is 83.00 degrees Farenheight.
 
-![December](https://courses.bootcampspot.com/courses/691/files/573230/preview)
+
 
 
 - In June, the standard deviation is 3.25, whereas in December it is 3.75. Therefore, there is a 0.005% difference between the seasons.
